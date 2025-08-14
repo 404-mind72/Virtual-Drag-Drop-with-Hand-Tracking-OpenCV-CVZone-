@@ -44,10 +44,6 @@ python App.py
   
 ![Bar Plot](output.png)
 
-- Result 2
-  
-![Bar Plot](output.png)
-
 ## 💡 Development Potential
 - Multi-Hand Support: Supports simultaneous interaction with two hands.
 - Custom Shapes: Add objects with customizable shapes and sizes.
