@@ -4,11 +4,11 @@ This project is a Computer Vision-based virtual drag & drop application that all
 
 ## 🎯 Key Features
 - Real-Time Hand Tracking using your laptop/PC camera.
-- Pinch-to-Grab Gesture: Move objects by pinching your thumb and index finger.
-- Multi-Object Drag & Drop: Multiple objects can be moved independently.
-- Smooth Motion: Smoother object movement with a smoothing system.
-- Transparent Labels & Colors: Each object has a label and a semi-transparent visual effect.
-- Easy Interaction: Simply use hand gestures in front of the camera.
+- Pinch-to-Grab Gesture : Move objects by pinching your thumb and index finger.
+- Multi-Object Drag & Drop : Multiple objects can be moved independently.
+- Smooth Motion : Smoother object movement with a smoothing system.
+- Transparent Labels & Colors : Each object has a label and a semi-transparent visual effect.
+- Easy Interaction : Simply use hand gestures in front of the camera.
 
 ## 🛠 Technologies Used
 - Python 3
